@@ -9,6 +9,7 @@ Summary:	File::KeePass - Interface to KeePass V1 and V2 database files
 Name:		perl-File-KeePass
 Version:	2.03
 Release:	1
+# same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/File/%{pdir}-%{pnam}-%{version}.tar.gz
