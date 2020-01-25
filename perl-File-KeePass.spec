@@ -4,7 +4,6 @@
 #
 %define		pdir	File
 %define		pnam	KeePass
-%include	/usr/lib/rpm/macros.perl
 Summary:	File::KeePass - Interface to KeePass V1 and V2 database files
 Name:		perl-File-KeePass
 Version:	2.03
